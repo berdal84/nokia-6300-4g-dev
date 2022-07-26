@@ -4,7 +4,7 @@
 
 ## How to enter development mode?
 
-Dial `*#*#33284#*#*` (or `*#*#debug#*#*`)
+Dial `*#*#33284#*#*` (or `*#*#debug#*#*`), a bug icon should appear in the system taskbar above.
 
 ## References
 
