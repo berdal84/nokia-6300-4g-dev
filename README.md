@@ -36,3 +36,4 @@ a1d8bf2	device
 - https://www.kaiostech.com/learn-to-develop-for-the-kaios-operating-system-with-these-resources/
 - https://developer.kaiostech.com/docs/
 - https://community.phones.nokia.com/discussion/4840/i-want-to-enter-developer-mode
+- KaiOS samples: https://github.com/kaiostech
