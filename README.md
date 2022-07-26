@@ -4,7 +4,7 @@
 
 ## How to enter development mode?
 
-Dial `*#*#33284#*#*` (`*#*#debug#*#*`)
+Dial `*#*#33284#*#*` (or `*#*#debug#*#*`)
 
 ## References
 
