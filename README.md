@@ -4,7 +4,7 @@
 
 ## Install ADB on the computer
 
-For a MacOS computer, install `brew` if necessary:
+From MacOS, install `brew` if necessary:
 
 ```bash
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
